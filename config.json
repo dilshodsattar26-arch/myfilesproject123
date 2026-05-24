@@ -1,0 +1,8 @@
+{
+    "name": "apimanager-service",
+    "version": "1.0.123",
+    "private": false,
+    "environment": "production",
+    "build_id": 682,
+    "allow_public_access": true
+}
